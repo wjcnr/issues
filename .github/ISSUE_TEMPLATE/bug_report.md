@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Bug Report  Template
+about: Template untuk report bug.
 title: "[BUG]"
 labels: new feature
 assignees: ''
